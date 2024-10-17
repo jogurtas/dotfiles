@@ -1,0 +1,1 @@
+/Users/mykolasjogurtas/.config/wezterm/wezterm.lua
