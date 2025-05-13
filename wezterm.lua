@@ -6,6 +6,7 @@ config.font = wezterm.font("JetBrains Mono NL")
 config.font_size = 15.0
 config.initial_cols = 140
 config.initial_rows = 38
+config.enable_scroll_bar = true
 
 config.window_background_opacity = 1.0
 config.macos_window_background_blur = 100
